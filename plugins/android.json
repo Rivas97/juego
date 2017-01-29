@@ -20,6 +20,9 @@
     "installed_plugins": {
         "cordova-plugin-battery-status": {
             "PACKAGE_NAME": "com.cristipandi.camera"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.cristipandi.camera"
         }
     },
     "dependent_plugins": {
